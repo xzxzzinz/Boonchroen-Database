@@ -1,0 +1,31 @@
+C:\Users\AdviceMOrLOei\Desktop\Boonchroen Database\Boonchroen Database\bin\Debug\Boonchroen Database.exe.config
+C:\Users\AdviceMOrLOei\Desktop\Boonchroen Database\Boonchroen Database\bin\Debug\Boonchroen Database.exe
+C:\Users\AdviceMOrLOei\Desktop\Boonchroen Database\Boonchroen Database\bin\Debug\Boonchroen Database.pdb
+C:\Users\AdviceMOrLOei\Desktop\Boonchroen Database\Boonchroen Database\obj\Debug\Boonchroen Database.csprojResolveAssemblyReference.cache
+C:\Users\AdviceMOrLOei\Desktop\Boonchroen Database\Boonchroen Database\obj\Debug\Boonchroen_Database.Form1.resources
+C:\Users\AdviceMOrLOei\Desktop\Boonchroen Database\Boonchroen Database\obj\Debug\Boonchroen_Database.Properties.Resources.resources
+C:\Users\AdviceMOrLOei\Desktop\Boonchroen Database\Boonchroen Database\obj\Debug\Boonchroen Database.csproj.GenerateResource.Cache
+C:\Users\AdviceMOrLOei\Desktop\Boonchroen Database\Boonchroen Database\obj\Debug\Boonchroen Database.exe
+C:\Users\AdviceMOrLOei\Desktop\Boonchroen Database\Boonchroen Database\obj\Debug\Boonchroen Database.pdb
+C:\Users\AdviceMOrLOei\Desktop\Boonchroen Database\Boonchroen Database\obj\Debug\Boonchroen_Database.Form4.resources
+C:\Users\AdviceMOrLOei\Desktop\Boonchroen Database\Boonchroen Database\obj\Debug\Boonchroen_Database.Form3.resources
+C:\Users\AdviceMOrLOei\Desktop\Boonchroen Database\Boonchroen Database\obj\Debug\Boonchroen_Database.Form5.resources
+C:\Users\AdviceMOrLOei\Desktop\Boonchroen Database\Boonchroen Database\obj\Debug\Boonchroen_Database.Form6.resources
+C:\Users\AdviceMOrLOei\Desktop\Boonchroen Database\Boonchroen Database\obj\Debug\Boonchroen_Database.Form7.resources
+C:\Users\AdviceMOrLOei\Desktop\Project\Boonchroen Database\Boonchroen Database\bin\Debug\Boonchroen Database.exe.config
+C:\Users\AdviceMOrLOei\Desktop\Project\Boonchroen Database\Boonchroen Database\obj\Debug\Boonchroen Database.exe
+C:\Users\AdviceMOrLOei\Desktop\Project\Boonchroen Database\Boonchroen Database\obj\Debug\Boonchroen Database.pdb
+C:\Users\AdviceMOrLOei\Desktop\Project\Boonchroen Database\Boonchroen Database\obj\Debug\Boonchroen Database.csprojResolveAssemblyReference.cache
+C:\Users\AdviceMOrLOei\Desktop\Project\Boonchroen Database\Boonchroen Database\obj\Debug\Boonchroen_Database.Form1.resources
+C:\Users\AdviceMOrLOei\Desktop\Project\Boonchroen Database\Boonchroen Database\obj\Debug\Boonchroen_Database.Form3.resources
+C:\Users\AdviceMOrLOei\Desktop\Project\Boonchroen Database\Boonchroen Database\obj\Debug\Boonchroen_Database.Form4.resources
+C:\Users\AdviceMOrLOei\Desktop\Project\Boonchroen Database\Boonchroen Database\obj\Debug\Boonchroen_Database.Form5.resources
+C:\Users\AdviceMOrLOei\Desktop\Project\Boonchroen Database\Boonchroen Database\obj\Debug\Boonchroen_Database.Form6.resources
+C:\Users\AdviceMOrLOei\Desktop\Project\Boonchroen Database\Boonchroen Database\obj\Debug\Boonchroen_Database.Form7.resources
+C:\Users\AdviceMOrLOei\Desktop\Project\Boonchroen Database\Boonchroen Database\obj\Debug\Boonchroen_Database.Properties.Resources.resources
+C:\Users\AdviceMOrLOei\Desktop\Project\Boonchroen Database\Boonchroen Database\obj\Debug\Boonchroen Database.csproj.GenerateResource.Cache
+C:\Users\AdviceMOrLOei\Desktop\Project\Boonchroen Database\Boonchroen Database\bin\Debug\Boonchroen Database.exe
+C:\Users\AdviceMOrLOei\Desktop\Project\Boonchroen Database\Boonchroen Database\bin\Debug\Boonchroen Database.pdb
+C:\Users\AdviceMOrLOei\Desktop\Project\Boonchroen Database\Boonchroen Database\obj\Debug\Boonchroen_Database.Form8.resources
+C:\Users\AdviceMOrLOei\Desktop\Project\Boonchroen Database\Boonchroen Database\obj\Debug\Boonchroen_Database.Form9.resources
+C:\Users\AdviceMOrLOei\Desktop\Project\Boonchroen Database\Boonchroen Database\obj\Debug\Boonchroen_Database.Form11.resources
